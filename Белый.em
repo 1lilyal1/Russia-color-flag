@@ -11,18 +11,4 @@
 		Now you can run the macro command
 
 */
-
-macro InsertAsterisk()
-{
-	hbuf = GetCurrentBuf()
-	if (hbuf != 0)
-		SetBufSelText(hbuf, "*")
-}
-
-
-macro InsertSlash()
-{
-	hbuf = GetCurrentBuf()
-	if (hbuf != 0)
-		SetBufSelText(hbuf, "/")
-}
+Console.log("Привет мир!");
