@@ -1,6 +1,6 @@
 /*
 Белый цвет
 Белый цвет
-eeee
+eeeeeeeeee
 */
 Console.log("Привет мир!");
